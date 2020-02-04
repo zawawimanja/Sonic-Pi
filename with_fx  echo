@@ -1,0 +1,3 @@
+with_fx :flanger do
+  sample :loop_garzul
+end
