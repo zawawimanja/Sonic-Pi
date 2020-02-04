@@ -1,4 +1,6 @@
 sample:loop_amen,onset:1
+  sample choose([:elec_filt_snare, :elec_mid_snare, :elec_twip, :elec_twang, :elec_pop, :elec_blup, :elec_blip2, :elec_beep, :elec_ping])
+
 
 play_pattern [40, 25, 45, 25, 25, 50, 50]
 
