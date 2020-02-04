@@ -1,0 +1,9 @@
+in_thread do
+  10.times do
+    sample:bd_haus
+    sleep 0.25
+  end
+end
+
+play 73
+sleep 0.5
