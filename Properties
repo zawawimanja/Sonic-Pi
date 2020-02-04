@@ -5,3 +5,4 @@ release:
 cutoff:
 use_synth :
 attack:
+use_bpm 120
